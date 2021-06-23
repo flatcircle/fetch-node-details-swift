@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import web3swift
+import FlatCircleweb3swift
 import BigInt
 import BestLogger
 
