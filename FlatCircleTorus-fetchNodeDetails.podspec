@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "FlatCircleTorus-fetchNodeDetails"
-  spec.version      = "0.1.3"
+  spec.version      = "1.1.4"
   spec.platform = :ios, "11.0"
   spec.summary      = "Fetches the node details from torus nodelist smart contract"
   spec.homepage     = "https://github.com/flatcircle/torus-utils-swift"
